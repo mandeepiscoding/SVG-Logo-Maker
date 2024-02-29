@@ -28,6 +28,9 @@ This command-line application lets you create custom logos by specifying text, c
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+## Screenshot
+![SVG Logo Command Line Application](assets/ss.png)
+
 ## Copyright
 &copy; 2024 Mandeep Singh | [mandeepiscoding](https://github.com/mandeepiscoding)
 
