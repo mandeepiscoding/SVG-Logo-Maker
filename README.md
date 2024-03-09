@@ -31,6 +31,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Screenshot
 ![SVG Logo Command Line Application](assets/ss.png)
 
+## Video Link
+https://drive.google.com/file/d/1gB1Jgvabp-PzT2CeLWzMEjU50iJu_a5j/view
+This is a walkthrough of me running through the application showcasing that it works.
+
 ## Copyright
 &copy; 2024 Mandeep Singh | [mandeepiscoding](https://github.com/mandeepiscoding)
 
