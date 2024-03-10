@@ -32,7 +32,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ![SVG Logo Command Line Application](assets/ss.png)
 
 ## Video Link
-https://drive.google.com/file/d/1gB1Jgvabp-PzT2CeLWzMEjU50iJu_a5j/view
+https://drive.google.com/file/d/1tjNkYiHFWvIahLgMsNct5AZwIrItbaj0/view
 This is a walkthrough of me running through the application showcasing that it works.
 
 ## Copyright
