@@ -4,14 +4,16 @@
     "description": "A Node.js command-line application that enables users to create custom logos by selecting colors, shapes, and text, and saves the result as an SVG file.",
     "main": "index.js",
     "scripts": {
-      "start": "node index",
-      "test": "jest"
+        "start": "node index",
+        "test": "jest"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "inquirer": "^8.2.4",
-      "jest": "^24.9.0"
+        "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
     }
-  }
+}
